@@ -121,7 +121,7 @@ bad=0;
     if(command[I][command[I].size()-1]=='?'){command[I][command[I].size()-1]=' ';}
         q_taking(command[I]);
     }
-else
+if(reply.size()<=0)
     {
         chat(command[I]);
     }
