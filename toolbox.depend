@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1726312888 source:e:\cpp application\toolbox\main.cpp
+	<iostream>
+	"Name.h"
+	<map>
+	<algorithm>
+	<cstdlib>
+	<string>
+	<cctype>
+	<ctime>
+	"qnpart.h"
+	"customchat.h"
+
+1726132665 e:\cpp application\toolbox\name.h
+	<string>
+	<fstream>
+	<bits/stdc++.h>
+	"intstr.h"
+
+1726057789 e:\cpp application\toolbox\intstr.h
+	<vector>
+	<string>
+	<windows.h>
+	"intstr.h"
+
+1726249680 e:\cpp application\toolbox\qnpart.h
+	<algorithm>
+	<cstdlib>
+	<string>
+	"Name.h"
+	"intstr.h"
+
+1726313041 e:\cpp application\toolbox\customchat.h
+	"qnpart.h"
+

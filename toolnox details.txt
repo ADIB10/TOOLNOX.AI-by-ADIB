@@ -1,0 +1,21 @@
+this a beginer types ai
+here you can save some file name like a manu
+	add=to add filesearch in your sentence to search for specific file 
+	type searcgh will list out all same type file but avoid usig '.'
+you can alspo put multiple command in one go just put '.' after every command
+q&A
+at first it dont know anything
+to ask a q you can either use what or'?' in the q sentence but please avoid multiple q
+if you want to ask multiple q use what and'.' for every q
+ask it q and give it ans
+use add in the when it say if the ans is correct to creat a new q and ans 
+if you type replace it will replace the ans of that q&A
+
+custom chat
+teach it how to reply back
+
+all of this are based on string find so in few case it can show some error
+remember i am still noob
+
+haooy using my TOOLNOX AI
+and do name it TOOLNOX
